@@ -1,9 +1,8 @@
 
 # SpringBoot Rest API Starter
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8ae27b3c9f3344f78e548cfd1f1a3585)](https://app.codacy.com/gh/spinsage/springboot-starter-rest?utm_source=github.com&utm_medium=referral&utm_content=spinsage/springboot-starter-rest&utm_campaign=Badge_Grade)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3d2fd6da3e7a45acace14b08f318e2ce)](https://app.codacy.com/gh/spinsage/springboot-starter-rest?utm_source=github.com&utm_medium=referral&utm_content=spinsage/springboot-starter-rest&utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8ae27b3c9f3344f78e548cfd1f1a3585)](https://app.codacy.com/gh/spinsage/springboot-starter-rest?utm_source=github.com&utm_medium=referral&utm_content=spinsage/springboot-starter-rest&utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.com/spinsage/springboot-starter-rest.svg?branch=master)](https://travis-ci.com/spinsage/springboot-starter-rest)
 [![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/repos/spinsage/springboot-starter-rest/branches/master/badge-risk.svg)](https://copilot.blackducksoftware.com/github/repos/spinsage/springboot-starter-rest/branches/master)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/spinsage/springboot-starter-rest.svg)](http://isitmaintained.com/project/spinsage/springboot-starter-rest "Average time to resolve an issue") 
